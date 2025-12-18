@@ -1,0 +1,2 @@
+# Integrated-Pricing-Demand-Assortment-Inventory-Optimization
+An integrated optimization framework for retail decision-making that jointly determines pricing, assortment, and inventory decisions over multiple periods. The model incorporates customer segmentation, substitution behavior, and seasonality using a deterministic maximum-surplus choice model, and demonstrates significant profit improvements.
